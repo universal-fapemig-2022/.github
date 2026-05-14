@@ -20,13 +20,13 @@ As soluções propostas são fundamentadas na **Transformada de Burrows–Wheele
 ## 🔗 Repositórios Relacionados
 
 - **Comparação de genomas com grafos de Bruijn sucintos**  
-  https://github.com/universal-fapemig-2022/cdbg-comparison
+  [https://github.com/universal-fapemig-2022/gcBB](https://github.com/universal-fapemig-2022/gcBB)
 
 - **Left-Bounded Shortest Unique Substrings (LSUS)**  
   https://github.com/universal-fapemig-2022/lsus
 
 - **Compressão de arquivos FASTQ baseada em BWT**  
-  https://github.com/universal-fapemig-2022/fastq-compression
+  [https://github.com/universal-fapemig-2022/BFQzip](https://github.com/universal-fapemig-2022/BFQzip)
 
 ---
 
